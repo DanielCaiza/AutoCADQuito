@@ -1,3 +1,3 @@
 # VEINSQuito
-Example of parameters to simulate a VANET, modification of parameters in Veins
-Files with the name erlangen are part of the base example of veins
+Parameters modified to simulate 6 RSU in Quito.
+Launchd file configured to simulate veins in Quito
