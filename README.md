@@ -1,3 +1,2 @@
-# VEINSQuito
-Parameters modified to simulate 6 RSU in Quito.
-Launchd file configured to simulate veins in Quito
+# AutoCADQuito
+Graphic and plans for VANET´s Simulation in Quito
